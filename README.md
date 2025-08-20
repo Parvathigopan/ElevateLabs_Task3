@@ -1,0 +1,1 @@
+Elevate Lab Task 3 – Implemented Linear Regression on the House Price Prediction dataset. Preprocessed data, trained and evaluated the model (MAE, MSE, R²), and visualized results with regression line plots. Objective: to understand and apply simple & multiple linear regression using Scikit-learn, Pandas, Matplotlib.
